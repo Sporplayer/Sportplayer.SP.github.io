@@ -1,0 +1,10 @@
+:root{
+    --color-main:blue;
+}
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(138, 138, 138);
+    
+
+}
